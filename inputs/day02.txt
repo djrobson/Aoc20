@@ -4,7 +4,7 @@
 7-10 q: nfbrgwqlvljgq
 2-3 g: gjggg
 9-11 q: qqqqqqnqgqq
-14-20 b: bbbbbbbbbbbbzwbbbbbbbb
+14-20 b: bbbbbbbbbbbbzwbbbbbb
 2-6 s: sjsssss
 4-13 b: mdbctbzgcpdjbhsdctrd
 5-6 t: tttttt
@@ -23,7 +23,7 @@
 2-5 w: wwwwfw
 4-5 n: bnrnlnnkdvhbnnj
 7-17 s: kswscfssbssztsgwmdr
-9-14 h: hhhhhhhvhhhhhhhhhhh
+9-14 h: hhhhhhhvhhhhhbhhhhh
 1-2 s: sgvmzrpssss
 1-4 x: xxvgbxwxqx
 5-9 b: bbbbbbqbdbbzbxb
@@ -35,7 +35,7 @@
 1-2 g: bsmmpkmd
 4-16 q: vmqdqktlqqnhzqqx
 6-12 k: kqkwkktfbklkjnkqrtmb
-15-16 v: vvvvvvvvvvvvvvvxt
+15-16 v: vvvvvvvvvvvvvvxt
 12-13 r: rrrrrrsrrrrrx
 5-7 p: ppbqlppppp
 5-8 s: dxmsqssk
@@ -47,7 +47,7 @@
 5-7 r: rrdrrrzrr
 1-3 x: rxcxxxxxxxxxxxxx
 5-7 g: ggggggvgmcg
-12-15 n: nnnnnnnnnnnnnn
+12-15 n: nnnnnnnnnnnnnnhn
 4-6 p: qppppppp
 9-12 j: pjjsmbjjjjjj
 3-16 b: bhgbtjhqvkpgcbgbpbz
@@ -68,7 +68,7 @@
 14-15 n: nnnnnnnnnnnnnpr
 10-11 p: prcpwdzmcqp
 12-14 v: vvvrvvvqvvvschvvzvv
-1-11 q: jqqqkfqqqqqqqqqqqq
+1-11 q: jqqqkfqqqqqqqqwqq
 11-12 j: jjjjjjjjjjtj
 2-6 x: nqxxxx
 7-17 s: blbvqsssssssnslgswz
@@ -111,7 +111,7 @@
 4-6 s: ssslszs
 15-16 z: dzbzfxmpzhrrszzf
 5-12 x: xrzxxxgxtcxxxxxx
-17-19 g: ggggggggggggggwwgq
+17-19 g: ggggggggggggggxwjgq
 12-13 n: nnnnnnhnnnnjn
 8-10 l: llllllltllldlll
 9-14 t: fttftqttmtkstdf
@@ -123,7 +123,7 @@
 1-4 j: jjxpmsk
 6-8 c: pckczdcccncr
 3-6 x: xbslxxzhqn
-11-17 j: jdkjkjjjjbxjjjjsj
+11-17 j: jdkjkjjjjbjxjjjjsj
 4-8 h: hphbzhjh
 12-14 x: xxxxxrxxxxxxxrx
 2-4 q: kqgm
@@ -185,7 +185,7 @@
 1-3 l: blbz
 4-7 h: hhhbhhh
 8-12 m: mqhrnmzmmmmmm
-6-15 n: nnnnnpnnnbnnnnn
+6-15 n: nnnnnpnnnbnnnnzn
 3-6 q: lzjcxqpmjqsbqgxjql
 6-7 q: qqqnqrq
 5-7 q: qtlhqct
@@ -213,12 +213,12 @@
 3-4 l: ltlm
 8-10 j: bjpdpvtjdj
 1-7 v: vbfvvsvcvv
-11-16 j: jbjhjjjjjjjjjc
+11-16 j: jbjhjjjjjjjjjjjc
 6-13 b: bmswrnbdhbrfbmbb
 1-4 x: xxxh
 4-10 c: wjgcwbrkxk
 11-13 v: sfbcphvzttvmzv
-6-16 q: pqqqqqqqqqqqqqq
+6-16 q: pqqqqqqqqqqqqqqq
 10-12 w: wwwwwwwwwswww
 2-9 b: fbwwwbrdp
 3-4 v: vvnvvvvv
@@ -228,7 +228,7 @@
 3-4 c: cczcgc
 3-12 l: smllklclprdvlsl
 1-2 j: fjqd
-10-19 g: gggggggggqggggggggg
+10-19 g: gggggggggqggggggggxg
 3-5 m: fpmmmvb
 2-3 c: ccmc
 3-7 v: pvqktqh
@@ -259,7 +259,7 @@
 1-3 t: tttttt
 3-6 f: mftpff
 1-11 t: pmjtttttttl
-8-11 h: hhkmfhvhnwwhhhhhhhh
+8-11 h: hhkmfhvhnwwhhhhhhh
 4-6 k: kkkrkkkb
 2-17 x: zzxxzvrsbmjxnxxxx
 5-6 d: zdhxdldm
@@ -294,16 +294,16 @@
 4-7 f: nrxknwf
 3-9 l: fllltcllltlsjlc
 10-16 x: cxxxxhxjrxxqjxxkxcx
-10-14 m: mdmmmcmmmmmmmmmmmm
-2-17 n: nmnnnnnnnnnnnnnnn
+10-14 m: mdmmmcmmmmmmmmmm
+2-17 n: nmnnnnnnnnnnnnnnnn
 7-11 s: dtpqdssfbbsrl
 1-4 h: hhqh
 2-7 j: jjrbbmjps
 3-4 d: dhsddvflkqdvgd
 6-7 m: gmmmpmr
-2-9 j: jjjjjjjtpjjjjjjjj
-12-13 g: gggggggtgggg
-16-17 p: ppppppppppppppppppp
+2-9 j: jjjjjjjtpjjjjjjjjj
+12-13 g: gggggggtggggz
+16-17 p: ppppppppppppppppspp
 6-8 w: wntlwwwhnwtgwhwjj
 2-4 s: tntsjn
 4-6 t: tgtgtt
@@ -318,7 +318,7 @@
 4-9 p: bnpwptvkps
 10-11 n: nnnnnnnnnnsnnn
 12-14 d: ntpzdcqdpsrmddkcwgc
-4-10 g: wgxxgsgggkchgggg
+4-10 g: wgxxgsgggkchgggkg
 2-7 q: qwbqccqlqmqqqsqcw
 3-5 d: ddddddd
 2-4 v: vwsvv
@@ -339,7 +339,7 @@
 15-18 w: wwwwwwwwwwwwvwwwwww
 1-2 t: jtct
 2-3 k: cskdkkkl
-3-19 q: qpfqqmqqqqqqqqqqqqqq
+3-19 q: qpfqqmqqqqqqqqqqqtqq
 2-9 n: wnnjcngnkdnbnlrcbvns
 1-14 d: vddfpndddfddddjhddd
 1-2 m: bmmbwtwml
@@ -390,7 +390,7 @@
 6-7 w: wwwwwwww
 3-4 z: zvzzczzlglv
 13-14 l: llllllllllllll
-12-13 x: xxxwxxxxxxxx
+12-13 x: xxxwxxxxxxxgx
 3-4 p: mxkppr
 2-3 d: ddbdt
 3-5 l: zlplllphl
@@ -412,7 +412,7 @@
 8-11 g: ggggggggggdg
 5-10 s: bnshsbvrthssmq
 7-10 m: mmhmmmmmmmm
-14-17 h: hhhhhhhhhhhnmkhhhhhh
+14-17 h: hhhhhhhhhhhnmkhhhhh
 1-5 n: nnsnx
 4-17 j: jmxjdkgbhjxflrmqjjdj
 6-8 m: mmmmmmmb
@@ -485,9 +485,9 @@
 7-8 h: hhhhbhnhb
 3-4 n: cnzn
 8-9 r: ltnkhrdsr
-4-5 t: tttmtltpttttttttttt
+4-5 t: tttmtltptttttttltt
 7-8 s: sssslsscszws
-16-18 j: jjjljjxjnvjjjjjjnj
+16-18 j: jjjljjxjjnvjjjjjjnj
 3-4 s: psjpswct
 5-7 b: kslrgbhcxmhbv
 7-9 x: gxxxdxxxbxxx
@@ -497,7 +497,7 @@
 4-7 f: lfsfcnczbfh
 9-11 r: rrrrrrrrrfzr
 3-6 c: jfhnvcc
-8-19 f: ffffffgffffffffffff
+8-19 f: ffffffgfffffffffffj
 2-6 x: lpfxdqws
 1-4 q: xcvqnqvh
 2-11 r: rrrrrrrrrrrcr
@@ -524,7 +524,7 @@
 8-12 d: bddddddrddddd
 14-16 z: zzzzzzzzvzkvzzznzz
 9-10 z: fzzzzzzzzbf
-14-15 j: jjjjjjjjjjjjjjj
+14-15 j: jjjjjjjjjjjjjqjj
 8-11 b: qtfjvqgbpwb
 6-9 d: ddddddddzddddd
 5-7 c: rlqqctcr
@@ -542,7 +542,7 @@
 1-3 s: xsrsss
 14-18 w: wzwwwwpxwwfwwlkwbl
 2-8 w: tbjctwlwml
-1-10 h: xhhfhhjjhhhhhwhz
+1-10 h: xhhfhhgjhhhhhwhz
 13-15 c: cccccccccccclccq
 1-14 j: hjfjjjzsjpjjjjjj
 6-10 c: jccxcccbcc
@@ -591,7 +591,7 @@
 11-17 p: ptbzpvppswpppplpr
 7-13 g: ggggggzgggggfgg
 2-8 j: pbftjswjqzcp
-5-6 z: zzzzzczzzzzzzzzzzz
+5-6 z: zzzzzczzzzzzzzzzzzz
 2-6 n: ntvnnnnnn
 12-13 n: nndntnhknsnnnnnnqfnn
 1-6 x: wtnxdw
@@ -661,9 +661,9 @@
 4-6 g: ngdsggg
 7-9 q: hnxrvqjqqr
 3-5 l: fltllw
-3-11 g: gghgggggggggg
+3-11 g: gghggggggggg
 7-17 w: wwwwwwwvwpwwwmwtgw
-2-19 n: nhnnnnnnnnnnnnnnnn
+2-19 n: nhnnnnnnnnnnnnnnnnn
 1-2 n: xnmr
 4-6 x: xtxxxpxxxx
 10-13 z: zbzzzpjrwzdzxszzzz
@@ -695,7 +695,7 @@
 15-16 s: sssssssssssssvssz
 12-13 q: qqzqqqqqqqqvq
 4-5 g: cgxgk
-3-8 n: nnnnnnnnnnnnnn
+3-8 n: nnnnnnnnnnnnn
 1-3 r: rrkr
 14-15 g: sgtgggggggggggxgr
 2-5 s: vhcts
@@ -712,10 +712,10 @@
 8-12 d: ddddddjpdddh
 1-2 p: pphgjjm
 9-11 d: ddddddmdfddd
-18-19 z: zzzzzzzzzzzzzzzzzz
+18-19 z: zzzzzzzzzzzzzzzzzmz
 8-14 r: rrrrrrrtrkrrrq
 4-5 t: jhtrt
-3-6 p.m.: bjhwkpdjqbnng
+3-6 h: bjhwkpdjqbnng
 4-5 m: mmmmbm
 2-4 t: dqttgszbrwpcdr
 5-7 q: dfxmqxxqtdfqxqq
@@ -724,7 +724,7 @@
 7-14 m: mmhmbmkmmvrtmxgxwmm
 10-11 v: vvvvvzvvcxvvv
 5-6 s: lssssbrssl
-8-15 h: hhbhhhhwhrhhhqh
+8-15 h: hhbhhhhhwhrhhhqh
 18-19 q: qqqqkqqqqqqqqqqqqtq
 10-12 p: xpprjzzlpqspsnpb
 5-6 t: ttttgt
@@ -745,7 +745,7 @@
 2-4 f: vffw
 11-16 r: rrrrrrrrrrjrrrrq
 2-13 r: rlxpzrftnrkhrvlzrp
-4-7 g: lggfgsgggggggggggg
+4-7 g: lggfgsggggggggggg
 4-5 w: wwblw
 2-5 t: tbgtg
 6-7 n: jvzmhnmnphhx
@@ -758,17 +758,17 @@
 3-4 w: mwwv
 3-7 p: zppsxpnbj
 1-2 d: qtdd
-9-10 a.m .: rhdhlhhhwhhtdhzxhp
+9-10 h: rhdhlhhhwhhtdhzxhp
 1-6 v: lvtpvvnb
 2-6 q: qqqlqm
 4-8 j: jjfjjvjjxjj
-13-14 x: xhvqxxxxxxhxx
+13-14 x: xhvqxxxxxxhxxq
 10-13 k: kclwxblmncnbkkdhrhr
 1-3 j: jjpj
 3-4 b: sbmxhbbt
 2-3 d: mjscddjrh
 2-6 x: xxxgxqxxxxzxrxx
-19-20 h: hhshhhhhmshhhhhhhhh
+19-20 h: hhshhhhhmshhhhhhhhhq
 12-15 s: scbssrsslnsskfbs
 3-4 p: jpmp
 11-19 p: pppptpppcthpppppppp
@@ -783,7 +783,7 @@
 2-9 l: lcllllllxllllllll
 9-10 r: rrrrrrjrtrrr
 2-9 m: mmmbmmmmmmmm
-7-13 t: tttttttttwtz
+7-13 t: ttttttttttwtz
 7-13 b: bzbbbbqdxbqbb
 5-7 d: ddhdddmd
 4-5 b: bqbdkbbb
@@ -801,7 +801,7 @@
 1-2 q: qdlmfhgtgrnqhmvqmkhm
 6-7 t: tttttttt
 2-4 j: xjvzcjcftgvfqg
-5-7 n: srnxnjjgdnnnnnqrwt
+5-7 n: srnxnjjgdnnnnqrwt
 2-3 z: vhzzvk
 6-13 d: nlbwzrpsrfvwddcz
 1-3 s: ssfs
@@ -816,7 +816,7 @@
 5-7 h: qzjhhhp
 14-15 c: ccccccccccccclcc
 11-13 g: tkthwlwggncggxmjfk
-2-11 v: vndvvvvvvvvvv
+2-11 v: vndvvvvvvvvv
 10-11 p: ppppppppppt
 1-11 c: ccccccccccdc
 9-10 b: bbbfbpbbtbb
@@ -829,10 +829,10 @@
 2-4 d: hkvdzhlpbqdnvrjsc
 9-11 x: zxxxxxxxsxx
 14-17 q: qqqqqqlqqqvqqgtqq
-5-12 q: qqqqqqqqqqqqq
+5-12 q: qqqqqqqqqqqrqqqqq
 10-13 w: wxwbnbkwgwxwhwwwln
 5-16 c: xzvscccccjcccchhc
-2-3 v: vgmvvvvvvvvvv
+2-3 v: vgmvvvvvvvvv
 7-9 j: mjjjjpjjdjjjb
 6-9 q: gqqqqqqqq
 10-12 p: pcpxppppprpppp
