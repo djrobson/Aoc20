@@ -1,3 +1,4 @@
-# Advent of Code Rust Template
+# Advent of Code Rust 2020
+Going back to do the 2020 puzzles
 
-Advent of Code Rust template from https://aoc-templates.util.repl.co/
+Based on template from https://aoc-templates.util.repl.co/
