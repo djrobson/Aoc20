@@ -34,12 +34,12 @@ pub fn part2(input: String) {
     // azedybkmuwgotq
     // uqztdwasygmb
     enum CountMode {
-        adding,
-        removing,
-    };
+        Adding,
+        Removing,
+    }
     let mut total: usize = 0;
     let mut my_answers: [u8;26] = [0;26];
-    let mut mode:CountMode = CountMode::adding;
+    let mut mode:CountMode = CountMode::Adding;
 
     'l: for l in input.lines(){
         if l.len() == 0 {
@@ -51,18 +51,18 @@ pub fn part2(input: String) {
             }
             total = total + my_total;
             my_answers = [0;26];
-            mode = CountMode::adding;
+            mode = CountMode::Adding;
             continue 'l;
         }
 
         match mode {
-            CountMode::adding =>  {
+            CountMode::Adding =>  {
                     for x in l.as_bytes().iter() {
                         my_answers[(x-'a' as u8) as usize] = 1;
                     }
-                    mode = CountMode::removing;
+                    mode = CountMode::Removing;
                 },
-            CountMode::removing => {
+            CountMode::Removing => {
                 for x in 0..26 {
                     let c = (x + ('a' as u8)) as char;
                     if my_answers[x as usize] == 1 && !l.contains(c) {
